@@ -1,0 +1,38 @@
+.header img{
+    float:left;
+	width:5%;
+	height:5%;
+	}
+.header{
+	background-color:blue;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+#nav1{
+    line-height:10px;
+    background-color:#eeeeee;
+    height:20px;
+    width:50px;
+    float:left;
+    padding:5px;	      
+}
+#section 
+{
+text-align:center;
+height:100%;	
+}
+#section1
+{
+
+ float:left;
+ height:100%;
+ width:100%;
+ }
+#footer {
+    background-color:blue;
+    color:white;
+    clear:both;
+    text-align:center;
+   padding:5px;	 	 
+}
